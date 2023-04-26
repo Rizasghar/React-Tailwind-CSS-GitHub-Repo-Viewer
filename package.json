@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "core-js": "^3.30.1",
+    "dotenv": "^16.0.3",
     "fast-text-encoding": "^1.0.6",
     "moment": "^2.29.4",
     "octokit": "^2.0.14",

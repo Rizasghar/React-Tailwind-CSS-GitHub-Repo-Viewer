@@ -1,2 +1,2 @@
-export const BaseURL = `https://api.github.com`;
-export const APIToken = `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`;
+export const BaseURL = import.meta.env.VITE_BaseURL;
+export const APIToken = import.meta.env.VITE_APIToken;
