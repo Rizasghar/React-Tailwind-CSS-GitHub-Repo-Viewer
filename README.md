@@ -2,6 +2,9 @@
 
 This is a web application built with React and Tailwind CSS that allows you to view the top 100 GitHub repositories. You can view information about each repository, including its name, link, stars, watchers, and forks, and also view the commits for each repository.
 
+## Demo
+https://64497523a49cb150d2bcfc57--dulcet-mooncake-6f86d3.netlify.app/
+
 ## Installation
 
 To run this project on your local machine, you'll need to have Node.js and npm installed. Once you have those installed, you can follow these steps:
